@@ -5,3 +5,4 @@
 ## Credits & License / クレジットとライセンス
 ### 20251226_TextPeel.toe
 robbie landsburg / @shodty
+https://scenery.io/scenes/textpeel-Ih8Yoie8jiq
