@@ -9,3 +9,6 @@ https://scenery.io/scenes/textpeel-Ih8Yoie8jiq
 ### 20251227_Concentrick.toe
 Scene Group / @cavalry
 https://scenery.io/scenes/concentrick-bKzaa2YsAMq
+### 20251227_Mazin.toe
+Scene Group / @cavalry
+https://scenery.io/scenes/mazin-A80p6r9DrqC
