@@ -12,7 +12,6 @@ https://scenery.io/scenes/concentrick-bKzaa2YsAMq
 ### 20251227_Mazin.toe
 Scene Group / @cavalry
 https://scenery.io/scenes/mazin-A80p6r9DrqC
-### 20251228_Scribble Machine
-.toe
+### 20251228_Scribble Machine.toe
 MarioDeMeyer / @MarioDeMeyer
 https://scenery.io/scenes/scribble-machine-cMs6fpwkfT8
