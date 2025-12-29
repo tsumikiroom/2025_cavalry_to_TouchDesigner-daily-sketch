@@ -15,6 +15,6 @@ https://scenery.io/scenes/mazin-A80p6r9DrqC
 ### 20251228_Scribble Machine.toe
 MarioDeMeyer / @MarioDeMeyer
 https://scenery.io/scenes/scribble-machine-cMs6fpwkfT8
-### 20251228_Scribble Machine.toe
+### 20251229_CMYK Ripple.toe
 Chris Gannon / @chrisgannon
 https://scenery.io/scenes/cmyk-ripple-lr5TboQgVBw
