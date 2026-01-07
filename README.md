@@ -19,3 +19,6 @@ https://scenery.io/scenes/scribble-machine-cMs6fpwkfT8
 ### 20251229_CMYK Ripple.toe
 Chris Gannon / @chrisgannon
 https://scenery.io/scenes/cmyk-ripple-lr5TboQgVBw
+### 20260107_Peeling3D.toe
+motiondesigners.2d / @motiondesigners.2d
+https://www.instagram.com/p/DQbof76ihgH/
