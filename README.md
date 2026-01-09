@@ -22,3 +22,6 @@ https://scenery.io/scenes/cmyk-ripple-lr5TboQgVBw
 ### 20260107_Peeling3D.toe
 motiondesigners.2d / @motiondesigners.2d
 https://www.instagram.com/p/DQbof76ihgH/
+### 20260110_C3D.toe
+MarioDeMeyer / @MarioDeMeyer
+https://scenery.io/scenes/c3d-HMURBbfVAUq
