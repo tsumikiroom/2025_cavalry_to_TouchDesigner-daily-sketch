@@ -25,3 +25,12 @@ https://www.instagram.com/p/DQbof76ihgH/
 ### 20260110_C3D.toe
 MarioDeMeyer / @MarioDeMeyer
 https://scenery.io/scenes/c3d-HMURBbfVAUq
+### 20260215_Multi-Scale Truchet Patterns.toe
+tsumikiroom / @tsumikiroom
+https://scrapbox.io/tsumikiroom/Truchet_tiles
+### 20260215_Multi-Scale Truchet Patterns.7.toe
+tsumikiroom / @tsumikiroom
+https://scrapbox.io/tsumikiroom/Truchet_tiles
+### 20260219_Multi-Scale Truchet Patterns_Halftone.toe
+tsumikiroom / @tsumikiroom
+https://scrapbox.io/tsumikiroom/Truchet_tiles
