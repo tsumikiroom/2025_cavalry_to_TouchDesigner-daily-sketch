@@ -31,3 +31,6 @@ https://scrapbox.io/tsumikiroom/Truchet_tiles
 ### 20260219_Multi-Scale Truchet Patterns_Halftone.toe
 tsumikiroom / @tsumikiroom
 https://scrapbox.io/tsumikiroom/Truchet_tiles
+### 20260301_SpringSticks.toe
+MarioDeMeyer / @MarioDeMeyer
+https://scenery.io/scenes/r-series-006-springsticks-1ACjOfP3tam
