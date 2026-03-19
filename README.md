@@ -34,3 +34,6 @@ https://scrapbox.io/tsumikiroom/Truchet_tiles
 ### 20260301_SpringSticks.toe
 MarioDeMeyer / @MarioDeMeyer
 https://scenery.io/scenes/r-series-006-springsticks-1ACjOfP3tam
+### 20260319_ConnectNoise.toe
+Michiel van Kleef / @michielvankleef
+https://scenery.io/scenes/connect-noise-ljKVLrYcYeY
